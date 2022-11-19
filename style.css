@@ -1,0 +1,30 @@
+body{
+    background-color: green;
+}
+.happy{
+    padding: 20px;
+    margin-bottom: 5px;
+}
+.text{
+    font-size: 60px;
+    font-style: italic;
+    padding: 70px;
+}
+
+.poem{
+    font-family: "Glamour Absolute";
+    font-size: 80px;
+}
+.pic{
+    width:200px;
+    height:200px;
+    
+}
+  
+.first{
+    margin-left: 900px;
+    position: relative;
+}
+footer{
+    font-size: 70px;
+}
